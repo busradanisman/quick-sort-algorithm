@@ -1,0 +1,30 @@
+{
+  "name": "quick-sort-algorithm",
+  "version": "1.0.0",
+  "description": "quicksort",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/busradanisman/quick-sort-algorithm.git"
+  },
+  "author": "Busra Danisman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/busradanisman/quick-sort-algorithm/issues"
+  },
+  "homepage": "https://github.com/busradanisman/quick-sort-algorithm#readme",
+  "dependencies": {
+    "jest": "^24.9.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.6.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
+  }
+}
