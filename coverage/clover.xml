@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1572734717198" clover="3.2.0">
+  <project timestamp="1572734717199" name="All files">
+    <metrics statements="20" coveredstatements="20" conditionals="7" coveredconditionals="7" methods="2" coveredmethods="2" elements="29" coveredelements="29" complexity="0" loc="20" ncloc="20" packages="1" files="1" classes="1"/>
+    <file name="index.js" path="/Users/cagatay/Desktop/Quicksort/index.js">
+      <metrics statements="20" coveredstatements="20" conditionals="7" coveredconditionals="7" methods="2" coveredmethods="2"/>
+      <line num="10" count="13" type="stmt"/>
+      <line num="11" count="13" type="stmt"/>
+      <line num="12" count="13" type="stmt"/>
+      <line num="14" count="44" type="cond" truecount="2" falsecount="0"/>
+      <line num="15" count="22" type="stmt"/>
+      <line num="17" count="22" type="stmt"/>
+      <line num="18" count="22" type="stmt"/>
+      <line num="19" count="22" type="stmt"/>
+      <line num="23" count="13" type="stmt"/>
+      <line num="24" count="13" type="stmt"/>
+      <line num="25" count="13" type="stmt"/>
+      <line num="26" count="13" type="stmt"/>
+      <line num="35" count="28" type="cond" truecount="2" falsecount="0"/>
+      <line num="36" count="3" type="stmt"/>
+      <line num="38" count="28" type="cond" truecount="2" falsecount="0"/>
+      <line num="40" count="13" type="stmt"/>
+      <line num="43" count="13" type="stmt"/>
+      <line num="44" count="13" type="stmt"/>
+      <line num="45" count="13" type="stmt"/>
+      <line num="48" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
